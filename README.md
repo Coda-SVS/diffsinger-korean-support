@@ -1,5 +1,7 @@
 # diffsinger-korean-support
 
+## [음소표 확인](/phoneme_table.csv)
+
 # Workflow
 
 ## 음소표
